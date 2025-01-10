@@ -12,6 +12,7 @@ namespace pipelines_dotnet_core.Controllers
     {
         public IActionResult Index()
         {
+        // Commenting to test the bild pipeline
             return View();
         }
 
